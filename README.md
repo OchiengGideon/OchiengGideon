@@ -58,10 +58,11 @@ Hey! I'm Gideon, a passionate **Data Scientist** with a strong background in **m
 ---
 
 ### 🏆 Achievements & Projects
-- 🏅 **Optimized CNN Model** – Achieved 99.7% validation accuracy while reducing parameters by 30%.
-- 📊 **Movie Data Analysis** – Identified high-grossing film genres for a new movie studio venture.
-- ✈️ **Aviation Safety Analysis** – Provided insights to minimize aircraft risks for business expansion.
-- 📈 **Stock Market Forecasting** – Built a predictive model for market trend analysis.
+- 🏅 **[Optimized CNN Model](https://github.com/ochienggideon/cnn-model)** – Achieved 99.7% validation accuracy while reducing parameters by 30%.
+- 📊 **[Movie Recommendation System](https://github.com/Masinde10/Group3_phase4_Project)** – Build a recommendation system using collaborative and content-based filtering.
+- ✈️ **[Aviation Safety Analysis](https://github.com/OchiengGideon/Aviation-Accident-Data-Analysis)** – Provided insights to minimize aircraft risks for business expansion.
+- 📝 **[Sentiment Analysis Project](https://github.com/Masinde10/Group3-Phase5-Project)** – Developed a sentiment analysis model to analyze customer feedback and improve business decisions.
+
 
 ![Data Science GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
