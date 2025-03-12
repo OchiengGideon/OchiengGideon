@@ -22,7 +22,7 @@ Hey! I'm Gideon, a passionate **Data Scientist** with a strong background in **m
 - 🏆 **Hackathon Finalist** – Achieved 99.7% accuracy with an optimized image classification model  
 - 🎯 Currently exploring **AI for Good**, deploying machine learning models, and contributing to open-source projects  
 
-![Innovation GIF](https://media.giphy.com/media/5eLDrEaRGHegx2mB3L/giphy.gif)
+![Innovation GIF](images/pattern.gif)
 
 ---
 
