@@ -11,7 +11,7 @@
 ### 🌟 About Me
 Hey! I'm Gideon, a passionate **Data Scientist** with a strong background in **machine learning, AI, and data analysis**. I love turning messy datasets into actionable insights and building models that drive real-world impact. My journey in tech has been fueled by curiosity, coffee ☕, and an insatiable hunger for solving complex problems.
 
-![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gideon-ochieng)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:ochienggideon9@gmail.com)
 
 💻 **Tech Explorer** | 📊 **Data Enthusiast** | 🤖 **AI Innovator**  
 
