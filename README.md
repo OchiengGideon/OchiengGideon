@@ -22,7 +22,6 @@ Hey! I'm Gideon, a passionate **Data Scientist** with a strong background in **m
 - 🏆 **Hackathon Finalist** – Achieved 99.7% accuracy with an optimized image classification model  
 - 🎯 Currently exploring **AI for Good**, deploying machine learning models, and contributing to open-source projects  
 
-![Innovation GIF](images/pattern.gif)
 
 ---
 
@@ -64,34 +63,25 @@ Hey! I'm Gideon, a passionate **Data Scientist** with a strong background in **m
 - 📝 **[Sentiment Analysis Project](https://github.com/Masinde10/Group3-Phase5-Project)** – Developed a sentiment analysis model to analyze customer feedback and improve business decisions.
 
 
-![Data Science GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 
 ---
 
 
 ### 📌 Fun Facts About Me
-- 🚀 Passionate about **AI ethics & fairness**.
 - 🎮 Love playing FIFA & watching football ⚽.
 - 📚 Enjoy reading about **space exploration & deep learning**.
-- 🌍 Always open to collaborating on **data-driven projects**.
+- 🚀 Passionate about **AI ethics & fairness**.
 
 ---
 
-### 🌍 Let's Connect!
-📩 **Email**: [gideonochieng@example.com](mailto:gideonochieng@example.com)  
-🐦 **X (Twitter)**: [@gideon_ai](https://twitter.com/gideon_ai)  
-💼 **LinkedIn**: [Gideon Ochieng](https://linkedin.com/in/gideonochieng)  
-📊 **Kaggle**: [GideonOchieng](https://kaggle.com/gideonochieng)  
-🎥 **YouTube**: [Gideon AI Insights](https://youtube.com/gideon_ai)  
-🚀 **Portfolio**: [gideonochieng.dev](https://gideonochieng.dev)  
-
-![Connect GIF](https://media.giphy.com/media/Q8I2I0KrYjvE/giphy.gif)
-
+![Gideon's github stats](https://github-readme-stats.vercel.app/api?username=OchiengGideon&show_icons=true&hide=[%22issues%22])
 ---
 
 🚀 **"Data is the new oil, but insights are the real gold."** Let's build something amazing together! 💡✨
 
-![End GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Innovation GIF](images/pattern.gif)
+
 
 
 <!--
