@@ -1,6 +1,7 @@
-# Hi there, I'm Gideon Ochieng! 👋
+# Hi there, I'm Gideon Ochieng! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+<img src = 'images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 🚀 **Data Scientist | AI Enthusiast | Problem Solver**  
 📍 Nairobi, Kenya  
