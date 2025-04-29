@@ -75,6 +75,9 @@ Hey! I'm Gideon, a passionate **Data Scientist** with a strong background in **m
 ---
 
 ![Gideon's github stats](https://github-readme-stats.vercel.app/api?username=OchiengGideon&show_icons=true&hide=[%22issues%22])
+![](https://nirzak-streak-stats.vercel.app/?user=OchiengGideon&theme=onedark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OchiengGideon&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
 🚀 **"Data is the new oil, but insights are the real gold."** Let's build something amazing together! 💡✨
